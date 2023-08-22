@@ -19,8 +19,7 @@
 
 [Проект в Confluence](https://qa-bug-bug-report.atlassian.net/wiki/spaces/~63d1a64169f341de3f3d049a/pages/425985/1+2)
 
-*логин zoyatseluyko@icloud.com*
-*пароль Dt1ct2kj3drf4*
+
 
 
 

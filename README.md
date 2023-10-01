@@ -15,9 +15,10 @@
 
 ---
 ## Проекты.
-> Проект 1: Тест веб-приложения для учителей от Skyeng
+> Проект 1: Тест веб-приложения для учителей от Skyeng.
 
-[Проект в Confluence](https://qa-bug-bug-report.atlassian.net/wiki/spaces/~63d1a64169f341de3f3d049a/pages/425985/1+2)
+
+
 
 
 
